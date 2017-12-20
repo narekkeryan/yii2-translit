@@ -26,10 +26,5 @@
         "psr-4": {
             "keryan\\translit\\": "class"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.0-dev"
-        }
     }
 }
