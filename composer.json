@@ -1,12 +1,8 @@
 {
     "name": "narekkeryan/yii2-translit",
     "description": "Yii2 Translit for Armenian Language",
-    "keywords": [
-        "php",
-        "translit",
-        "yii2",
-        "armenian"
-    ],
+    "version": "1.0.0",
+    "keywords": ["php","translit","yii2","armenian"],
     "homepage": "https://github.com/narekkeryan/yii2-translit",
     "type": "library",
     "license": "MIT",
