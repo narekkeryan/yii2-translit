@@ -14,7 +14,7 @@
             "role": "Creator"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "support": {
         "issues": "https://github.com/narekkeryan/yii2-translit/issues",
         "source": "https://github.com/narekkeryan/yii2-translit"
