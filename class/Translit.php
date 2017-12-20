@@ -59,7 +59,6 @@ class Translit {
         $content = strtr(trim($content), $matrix);
         $content = str_replace('---', '-', $content);
         $content = str_replace('--', '-', $content);
-        $content = str_replace(' ', '_', $content);
         $content = strtolower($content);
 
         return $content;
