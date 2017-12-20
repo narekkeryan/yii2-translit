@@ -20,8 +20,7 @@
         "source": "https://github.com/narekkeryan/yii2-translit"
     },
     "require": {
-        "php": ">=5.6.0",
-        "narekkeryan/yii2-translit": "dev"
+        "php": ">=5.6.0"
     },
     "autoload": {
         "psr-4": {
