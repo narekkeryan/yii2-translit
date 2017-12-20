@@ -21,7 +21,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-        "narekkeryan/yii2-translit": "*"
+        "narekkeryan/yii2-translit": "dev"
     },
     "autoload": {
         "psr-4": {
